@@ -1,0 +1,13 @@
+{
+  "name": "clase-2",
+  "scripts": {
+    "dev": "nodemon http.js",
+    "dev:2": "node --watch express.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}
